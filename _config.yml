@@ -1,0 +1,28 @@
+# Site settings
+title: WG-school-at-UofC
+description: > 
+  Create a workshop website quick and easy! 
+keywords: "hpc, westgrid, summer school"
+
+# author settings for cc-by
+author: WestGrid
+github_username: razoumov
+twitter_username: 
+pub_year: 2018
+
+# add the full url for the github repository
+repo: "https://github.com/WestGrid/ubcSummerSchool2018.git"
+
+# add the full url for the repository's gh-pages
+# hint: it's in the form https://username.github.io/repo-name
+url: "https://westgrid.github.io/ubcSummerSchool2018"
+
+# add google analytics if desired (and uncomment in _includes/head.html)
+google_analytics: 
+
+# Build settings
+markdown: kramdown
+
+# Notes: 
+# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+# - pages with "nav: true" in front matter will be in header nav
