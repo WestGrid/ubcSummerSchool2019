@@ -5,21 +5,6 @@ nav: true
 ---
 
 [introHPC]: {{ site.baseurl }}/introHPC.html
-[phillip]: {{ site.baseurl }}/phillip.html
-[phil]: {{ site.baseurl }}/phil.html
-[wolfgang]: {{ site.baseurl }}/wolfgang.html
-[juan]: {{ site.baseurl }}/juan.html
-[alex1]: {{ site.baseurl }}/alex1.html
-[alex2]: {{ site.baseurl }}/alex2.html
-[alex3]: {{ site.baseurl }}/alex3.html
-[dmitri]: {{ site.baseurl }}/dmitri.html
-[mathworks1]: {{ site.baseurl }}/mathworks1.html
-[mathworks2]: {{ site.baseurl }}/mathworks2.html
-[azure]: {{ site.baseurl }}/azure.html
-[kim]: {{ site.baseurl }}/kim.html
-[venkat]: {{ site.baseurl }}/venkat.html
-[amazon]: {{ site.baseurl }}/amazon.html
-[panel]: {{ site.baseurl }}/panel.html
 
 | date and time | Stream 1 (Lecture Theatre) | Stream 2 (Smaller Classroom) | Machine Learning |
 | ------------- | --------------- | ----------------- | ----------------- |
