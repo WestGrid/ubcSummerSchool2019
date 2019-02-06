@@ -15,8 +15,7 @@ detailed course information.
 
 **Important**: All attendees must bring their laptops and power cords (if your battery does not last all
 day). Don't forget to check details and prerequisites for each course, including software requirements
-for your laptop under **Setup** > *Laptop software*. Please install the required software before coming
-to class.
+for your laptop under **Laptop software**. Please install the required software before coming to class.
 
 Before the start of the summer school **all eligible attendees must obtain** their Eduroam accounts
 through their home institutions. You will need online access to log in to remote systems, complete the
