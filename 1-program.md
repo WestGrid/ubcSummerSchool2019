@@ -15,7 +15,7 @@ nav: true
 | Wed **29th** morning 9:00am-12:00pm | Visualization in HPC 1 by Alex Razoumov | Selected Python libraries for Researchers | • 9am-10:15am Artificial Neural Networks in R <br> • 10:30am-12pm ANFIS with R |
 | Wed **29th** afternoon 1:00pm-4:00pm | Visualization in HPC 2 by Alex Razoumov | Speeding up Python code C/C++ | Tensor Flow for CNN Training in MATLAB |
 | Thu **30th** morning 9:00am-12:00pm | Chapel by Alex Razoumov | R in HPC environment | • 9am-10:15am K-means Clustering in Python <br> • 10:30am-12pm PCA for Feature Selection |
-| Thu **30th** afternoon 1:00pm-4:00pm | MATLAB | Working with spatial data | Automated Feature Selection with IBM |
+| Thu **30th** afternoon 1:00pm-4:00pm | possibly Chapel, possibly another course | Working with spatial data | Automated Feature Selection with IBM |
 {:.mbtablestyle}
 
 &nbsp;
