@@ -4,32 +4,34 @@ title: Introduction to HPC
 nav: false
 ---
 
-**Instructor**: Alex Razoumov (WestGrid)
+# Introduction to HPC
 
-**Title**: Introduction to HPC
+**Instructor**: Alex Razoumov (WestGrid)
 
 An introduction to high-performance computing for those without any HPC experience.
 
+We will start with an overview of the hardware of common HPC clusters and a quick description of the
+resources available on Compute Canada's national systems (Cedar, Graham, Niagara). We will then continue
+learning the basic tools and techniques to work on a cluster: software environment and modules, overview
+of installed programming languages and compilers, working with make and Makefiles, and installing new
+software locally. Finally, we will take a look at Slurm job scheduler: why use it, fairshare and
+priority, submitting serial jobs and job arrays, submitting OpenMP / MPI / hybrid / GPU jobs, working
+inside interactive jobs, and tracking your job's memory usage. We will also take a quick look at working
+with common packages such as R, Python and Matlab on the clusters, as well as best practices in cluster
+workflows.
+
 **Target audience**: general
 
-**Course plan**:
-- introduction to Compute Canada systems; cluster hardware overview
-- basic knowledge and tools necessary to work with the cluster: how to log in, transfer files, write make
-  files, compile codes, submit jobs, etc.
-- quick overview of different parallel programming models: OpenMP, MPI, Chapel
-- debugging
-- profiling and optimization
-- best practices
-- research data management in 30 mins (Megan)
-  - overview of Globus, ownCloud/Nextcloud, and using these for file sharing and publishing
-  - possible: tools for creating RDM plans, file naming, sharing, privacy/security issues
-  - not likely: using these tools from the command line
-- overview of what is going to be presented in the other sessions
+<!-- **Course plan**: -->
 
 **Duration**: 6 hours
 
 **Level**: beginner
 
-**Prerequisites**: Basic knowledge of Linux command line
+**Prerequisites**: Working knowledge of Linux command line [covered on Day 1](bash). We will provide
+guest accounts to one of our Linux systems.
 
-**Laptop software**: SSH client (built-in on Mac/Linux, on Windows MobaXTerm or PuTTY)
+**Laptop software**: All attendees will need to bring their laptops with wireless access and with a
+remote SSH client installed (on Windows laptops we recommend <a
+href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition</a>; on Mac and Linux
+laptops no need to install anything).
