@@ -17,7 +17,7 @@ unstructured meshes or particles, animate these datasets in time, and manipulate
 filters. ParaView supports both interactive (GUI) and scripted (including offscreen) visualization, and
 is an easy and fun tool to learn.
 
-**Target audience**: anyone interested in 3D scientific visualization
+**Target audience**: anyone interested in scientific visualization
 
 <!-- **Course plan**: -->
 

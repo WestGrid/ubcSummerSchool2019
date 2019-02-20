@@ -4,10 +4,6 @@ title: Program
 nav: true
 ---
 
-<!-- [introHPC]: {{ site.baseurl }}/introHPC.html -->
-<!-- [bash]: {{ site.baseurl }}/bash.html -->
-<!-- [vis]: {{ site.baseurl }}/visualization.html -->
-
 | date and time | Stream 1 (Lecture Theatre) | Stream 2 (Smaller Classroom) | Machine Learning |
 | ------------- | --------------- | ----------------- | ----------------- |
 | Mon **27th** morning 9:00am-12:00pm | [Bash Scripting and Tools](bash) (with intro to ARC) by Alex Razoumov | Introduction to Python | • 9am-10:15am Introduction to Python <br> • 10:30am-12pm Regression Classifiers with Python  |
