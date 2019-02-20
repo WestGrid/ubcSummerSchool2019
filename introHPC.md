@@ -4,7 +4,7 @@ title: Introduction to HPC
 nav: false
 ---
 
-# Introduction to HPC
+# Introduction to high-performance computing (HPC)
 
 **Instructor**: Alex Razoumov (WestGrid)
 
