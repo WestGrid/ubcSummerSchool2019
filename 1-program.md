@@ -6,14 +6,14 @@ nav: true
 
 | date and time | Stream 1 (Lecture Theatre) | Stream 2 (Smaller Classroom) | Machine Learning |
 | ------------- | --------------- | ----------------- | ----------------- |
-| Mon **27th** morning 9:00am-12:00pm | [Bash Scripting and Tools](bash) (with intro to ARC) by Alex Razoumov | Introduction to Python | • 9am-10:15am Introduction to Python <br> • 10:30am-12pm Regression Classifiers with Python  |
-| Mon **27th** afternoon 1:00pm-4:00pm | Working with Text | Introduction to Apache SPARK | Nearest Neighbors with Python scikit-learn |
-| Tue **28th** morning 9:00am-12:00pm | [Introduction to HPC 1](introHPC) by Alex Razoumov | Introduction to C (and pointers) for Scientists | • 9am-10:15am Data Cleaning with Pandas <br> • 10:30am-12pm Data Pipeline Development with auto_ml |
-| Tue **28th** afternoon 1:00pm-4:00pm | [Introduction to HPC 2](introHPC) by Alex Razoumov | Python scripting for Scientists | • 1pm-2:30pm Pipeline Development with AWS <br> • 2:45pm-4pm Pipeline Development with Google Web Services |
-| Wed **29th** morning 9:00am-12:00pm | [Scientific Visualization 1](visualization) by Alex Razoumov | Selected Python libraries for Researchers | • 9am-10:15am Artificial Neural Networks in R <br> • 10:30am-12pm ANFIS with R |
-| Wed **29th** afternoon 1:00pm-4:00pm | [Scientific Visualization 2](visualization) by Alex Razoumov | Speeding up Python code C/C++ | Tensor Flow for CNN (Deep Learning) in MATLAB |
-| Thu **30th** morning 9:00am-12:00pm | [Chapel parallel programming](chapel) by Alex Razoumov | R in HPC environment | • 9am-10:15am K-means Clustering in Python <br> • 10:30am-12pm PCA for Feature Selection |
-| Thu **30th** afternoon 1:00pm-4:00pm | MATLAB parallel programming | Working with spatial data | Automated Feature Selection with IBM |
+| Mon **27th** morning 9:00am-12:00pm | [Bash Scripting and Tools](bash) (with intro to ARC) by Alex Razoumov | Introduction to Python by ??? | • 9am-10:15am Introduction to Python by ??? <br> • 10:30am-12pm Regression Classifiers with Python by ??? |
+| Mon **27th** afternoon 1:00pm-4:00pm | Working with Text by ??? | Introduction to Apache SPARK by Dave Schulz | Nearest Neighbors with Python (scikit-learn) by ??? |
+| Tue **28th** morning 9:00am-12:00pm | [Introduction to HPC 1](introHPC) by Alex Razoumov | Introduction to C (and pointers) for Scientists by ??? | • 9am-10:15am Data Cleaning with Pandas by ??? <br> • 10:30am-12pm Data Pipeline Development with auto_ml by ??? |
+| Tue **28th** afternoon 1:00pm-4:00pm | [Introduction to HPC 2](introHPC) by Alex Razoumov | Python scripting for Scientists by ??? | • 1pm-2:30pm Pipeline Development with AWS by ??? <br> • 2:45pm-4pm Pipeline Development with Google Web Services by ??? |
+| Wed **29th** morning 9:00am-12:00pm | [Scientific Visualization 1](visualization) by Alex Razoumov | Selected Python libraries for Researchers by ??? | • 9am-10:15am Artificial Neural Networks in R by ??? <br> • 10:30am-12pm ANFIS with R by ??? |
+| Wed **29th** afternoon 1:00pm-4:00pm | [Scientific Visualization 2](visualization) by Alex Razoumov | Speeding up Python code with C/C++ by ??? | Tensor Flow for CNN (Deep Learning) in MATLAB by MathWorks |
+| Thu **30th** morning 9:00am-12:00pm | [Chapel parallel programming](chapel) by Alex Razoumov | R in HPC environment by ??? | • 9am-10:15am K-means Clustering in Python by ??? <br> • 10:30am-12pm PCA for Feature Selection by ??? |
+| Thu **30th** afternoon 1:00pm-4:00pm | MATLAB parallel programming by MathWorks | Working with spatial data by ??? | Automated Feature Selection with IBM |
 {:.mbtablestyle}
 
 &nbsp;
