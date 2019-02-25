@@ -5,6 +5,8 @@ nav: true
 ---
 
 {% capture beginner %}![beginner](images/beginner.png){% endcapture %}
+{% capture intermediate %}![intermediate](images/intermediate.png){% endcapture %}
+{% capture expert %}![expert](images/expert.png){% endcapture %}
 
 | date and time | Stream 1 (Lecture Theatre) | Stream 2 (Smaller Classroom) | Machine Learning |
 | ------------- | --------------- | ----------------- | ----------------- |
