@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include figure.html file="wgLogoHighRes.jpg" alt="intro image here" width="85%" %}
+{% include figure.html file="allLogos.png" alt="intro image here" width="95%" %}
 
 # Research computing summer school
 
@@ -11,7 +11,7 @@ layout: default
 This June, [WestGrid](https://www.westgrid.ca) is bringing its four-day Research Computing Summer School
 to the University of Calgary. Courses will explore introductory and advanced topics in high performance
 computing and parallel programming, machine leaning, research computing with Python / R / MATLAB / C /
-C++, and scientific visualization.
+C++ / Chapel, and scientific visualization.
 
 For full course details, please check [the program]({{ site.baseurl }}/1-program.html). We encourage
 anyone interested in building knowledge and skills for computational research to attend the
