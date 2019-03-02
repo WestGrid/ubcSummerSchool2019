@@ -1,7 +1,7 @@
 # Site settings
 title: WG-school-at-UBC
 description: > 
-  WestGrid summer school at the University of Calgary
+  WestGrid summer school at the UBC
 keywords: "hpc, westgrid, summer school"
 
 # author settings for cc-by
@@ -11,11 +11,11 @@ twitter_username:
 pub_year: 2019
 
 # add the full url for the github repository
-repo: "https://github.com/WestGrid/calgarySummerSchool2019.git"
+repo: "https://github.com/WestGrid/ubcSummerSchool2019.git"
 
 # add the full url for the repository's gh-pages
 # hint: it's in the form https://username.github.io/repo-name
-url: "https://westgrid.github.io/calgarySummerSchool2019"
+url: "https://westgrid.github.io/ubcSummerSchool2019"
 
 # add google analytics if desired (and uncomment in _includes/head.html)
 google_analytics: 
