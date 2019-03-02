@@ -22,4 +22,20 @@ nav: true
 
 &nbsp;
 
+Tentative:
+- *Compute Canada cloud* by Venkat Mahadevan {{beg}}
+- *Databases* by Wolfgang Richter {{beg}}
+- *Next-Gen Sequencing on Cedar* by Phillip Richmond {{beg}} {{int}}
+- *Data Analysis with MATLAB* by MathWorks {{beg}}
+- *MATLAB Parallel Computing Hands-on Workshop* by MathWorks {{int}}
+
+Other:
+- *Introduction to GPU programming with CUDA* by Juan Zuniga {{int}}
+- *Speeding up Python code with C/C++* by Dmitri Rozmanov {{beg}} {{int}}
+- *HPC and deep learning labs in Microsoft Azure Cloud* {{beg}}
+- *Parallelization in Python 3 and large datasets* by Phil Austin {{int}}
+- *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland {{beg}}
+- *Amazon Web Services* {{beg}}
+- open panel on post-PhD career options
+
 <!-- <strike>Python scripting for Scientists</strike> -->
