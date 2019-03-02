@@ -30,12 +30,14 @@ Tentative:
 - *MATLAB Parallel Computing Hands-on Workshop* by MathWorks {{int}}
 
 Other:
+- *Elastic cloud and S3*
 - *Introduction to GPU programming with CUDA* by Juan Zuniga {{int}}
 - *Speeding up Python code with C/C++* by Dmitri Rozmanov {{beg}} {{int}}
 - *HPC and deep learning labs in Microsoft Azure Cloud* {{beg}}
 - *Parallelization in Python 3 and large datasets* by Phil Austin {{int}}
 - *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland {{beg}}
 - *Amazon Web Services* {{beg}}
+- Julia course?
 - open panel on post-PhD career options
 
 <!-- <strike>Python scripting for Scientists</strike> -->
