@@ -10,7 +10,7 @@ layout: default
 
 This June, [WestGrid](https://www.westgrid.ca) is bringing its four-day Research Computing Summer School
 to the University of British Columbia. Courses will explore introductory and advanced topics in high
-performance computing and parallel programming, machine leaning, research computing with Python / R /
+performance computing and parallel programming, machine learning, research computing with Python / R /
 MATLAB / C / C++ / Chapel, and scientific visualization.
 
 For full course details, please check [the program]({{ site.baseurl }}/1-program.html). We encourage
