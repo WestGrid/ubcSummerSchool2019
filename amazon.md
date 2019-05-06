@@ -27,6 +27,6 @@ globally.
 
 **Level**: 
 
-**Prerequisites**: This is an introductory course, no prior visualization experience is required. 
+**Prerequisites**: This is an introductory course, no prior experience is required. 
 
 **Laptop software**: 
