@@ -19,7 +19,7 @@ Exact room locations will be announced at the beginnning of June.
 | Wed **26th** morning 9:00am-12:00pm | [*Scientific Visualization 1*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |
 | Wed **26th** afternoon 1:00pm-4:00pm | [*Scientific Visualization 2*](visualization) by Alex Razoumov {{beg}} | [*MATLAB Parallel Computing*](parallelMatlab) by Sam Marshalik {{beg}} |
 | Thu **27th** morning 9:00am-12:00pm | [*Chapel parallel programming*](chapel) by Alex Razoumov {{beg}}{{int}} | *Tensor flow and machine learning* by Nvidia |
-| Thu **27th** afternoon 1:00pm-4:00pm | *Web scraping with Python APIs* by Eugene or Skyler (?) | Amazon AWS session |
+| Thu **27th** afternoon 1:00pm-4:00pm | *Web scraping with Python APIs* by Eugene or Skyler (?) | [*HPC on Amazon Web Services*](amazon) by Kevin Jorissen |
 {:.mbtablestyle}
 
 &nbsp;
