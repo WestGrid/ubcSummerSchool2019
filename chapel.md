@@ -23,7 +23,7 @@ Unix-like operating system, with hardware support from laptops to large HPC syst
 
 **Duration**: 3 hours
 
-**Level**: intermediate/advanced
+**Level**: beginner/intermediate
 
 **Prerequisites**: This is an introductory course, no prior parallel programming experience is required;
 however, having some programming background will allow the attendees to get the most out of this
