@@ -14,21 +14,20 @@ Exact room locations will be announced at the beginnning of June.
 | ------------- | --------------- | ----------------- |
 | Mon **24th** morning 9:00am-12:00pm | [*Bash Scripting and Tools*](bash) (with intro to ARC) by Alex Razoumov {{beg}} | *Next-Gen Sequencing* by Phillip Richmond {{beg}} {{int}} |
 | Mon **24th** afternoon 1:00pm-4:00pm | *Compute Canada cloud* by Venkat Mahadevan {{beg}} | *Jupyter Notebooks* with Ian Allison (PIMS) |
-| Tue **25th** morning 9:00am-12:00pm | [*Introduction to HPC 1*](introHPC) by Alex Razoumov {{beg}} | *Databases* by Wolfgang Richter {{beg}} |
-| Tue **25th** afternoon 1:00pm-4:00pm | [*Introduction to HPC 2*](introHPC) by Alex Razoumov {{beg}} | *Best practices in data security and privacy* (2 hours?) by Scott Baker |
-| Wed **26th** morning 9:00am-12:00pm | [*Scientific Visualization 1*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |
-| Wed **26th** afternoon 1:00pm-4:00pm | [*Scientific Visualization 2*](visualization) by Alex Razoumov {{beg}} | [*MATLAB Parallel Computing*](parallelMatlab) by Sam Marshalik {{beg}} |
+| Tue **25th** morning 9:00am-12:00pm | [*Introduction to HPC (part 1)*](introHPC) by Alex Razoumov {{beg}} | *Databases* by Wolfgang Richter {{beg}} |
+| Tue **25th** afternoon 1:00pm-4:00pm | [*Introduction to HPC (part 2)*](introHPC) by Alex Razoumov {{beg}} | *Best practices in data security and privacy* by Scott Baker (2 hours) |
+| Wed **26th** morning 9:00am-12:00pm | [*Scientific Visualization (part 1)*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |
+| Wed **26th** afternoon 1:00pm-4:00pm | [*Scientific Visualization (part 2)*](visualization) by Alex Razoumov {{beg}} | [*MATLAB Parallel Computing*](parallelMatlab) by Sam Marshalik {{beg}} |
 | Thu **27th** morning 9:00am-12:00pm | [*Chapel parallel programming*](chapel) by Alex Razoumov {{beg}}{{int}} | *Tensor flow and machine learning* by Nvidia |
 | Thu **27th** afternoon 1:00pm-4:00pm | *Web scraping with Python APIs* by Eugene or Skyler (?) | [*HPC on Amazon Web Services*](amazon) by Kevin Jorissen |
 {:.mbtablestyle}
 
 &nbsp;
 
-Tentative:
-- *Elastic cloud and S3* by Dell (1/2-day hands-on)
-- *CUDA* by Nvidia (waiting for confirmation)
-- *Data Analysis with MATLAB* and/or *MATLAB Parallel Computing Hands-on Workshop* by MathWorks (exact topic TBC)
-- a session from ECOSCOPE (in contact)
+<!-- Tentative: -->
+<!-- - *Elastic cloud and S3* by Dell (1/2-day hands-on) -->
+<!-- - *CUDA* by Nvidia (waiting for confirmation) -->
+<!-- - a session from ECOSCOPE (in contact) -->
 
 <!-- Other: -->
 <!-- - *Introduction to GPU programming with CUDA* by Juan Zuniga {{int}} -->
