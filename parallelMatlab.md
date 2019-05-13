@@ -35,6 +35,11 @@ You can download the course materials as a ZIP file (will be available closer to
 <a href="https://www.mathworks.com/learn/tutorials/matlab-onramp.html" target="_blank">accessed for
 free</a>.
 
+Also, we expect all attendees to have a working knowledge of cluster (high-performance computing)
+environment: how to prepare and to submit jobs with Slurm, how to view job output, best practices on the
+login nodes and with parallel filesystems, etc. If you are new to cluster workflows, please consider
+attending the [Introduction to HPC](introHPC) session.
+
 **Laptop software**:
 - MATLAB R2016a or newer
 - Parallel Computing Toolbox
