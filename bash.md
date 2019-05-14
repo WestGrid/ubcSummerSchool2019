@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to HPC
+title: Bash Scripting and Tools
 nav: false
 ---
 
