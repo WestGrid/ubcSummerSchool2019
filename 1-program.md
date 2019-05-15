@@ -27,24 +27,29 @@ Exact room locations will be announced at the beginnning of June.
 
 
 
-
-
 <!-- Notes: -->
-<!-- *Tensor flow and machine learning* by Nvidia: confirmed -->
-<!-- *Jupyter Notebooks* with Ian Allison (PIMS): initial response is very positive, 50-75% confirmed -->
-<!-- *Elastic cloud and DELL/EMC object storage platform* by Dell (1/2-day hands-on): still working with DELL -->
-<!-- *Building a bioinformatics pipeline with SnakeMake* from "Jamie's colleague (3 hours) -->
-<!-- *CUDA* by Nvidia (waiting for confirmation) -->
+<!-- - rooms: we are waiting until the end of May to see if we have Pharmacy rooms -->
+<!-- - Kamil is starting local advertising (departments, mailist list, Jana's poster) -->
+<!-- - wifi access for UBC visitors: ask Garth next time -->
+<!-- - we have 120 CCDB guest accounts -->
+<!-- - we'll request 10 base CPU nodes on Cedar/Graham, no GPU reservations -->
+<!-- - course helpers (esp. for large courses): this year no interns, Kamil will start looking into finding volunteers -->
+<!-- - *Tensor flow and machine learning* by Nvidia: confirmed -->
+<!-- - *Jupyter Notebooks* with Ian Allison (PIMS): initial response is very positive, 50-75% confirmed -->
+<!-- - *Elastic cloud and DELL/EMC object storage platform* by Dell (1/2-day hands-on): still working with DELL -->
+<!-- - *Building a bioinformatics pipeline with SnakeMake* (3 hours) from Jamie's colleague (Bryan?) - let's -->
+<!--   assume we can fit it (either cancellation or Stream 3) and ask the instructor for syllabus -->
+<!-- - *CUDA* by Nvidia (waiting for confirmation?) -->
+<!-- - *Web scraping with Python APIs* by Eugene or Skyler (?) - is this course confirmed? -->
 
 
 
 
 <!-- Other: -->
-<!-- a session from ECOSCOPE (in contact) -->
-<!-- *Speeding up Python code with C/C++* by Dmitri Rozmanov {{beg}} {{int}} -->
-<!-- *HPC and deep learning labs in Microsoft Azure Cloud* {{beg}} -->
-<!-- *Parallelization in Python 3 and large datasets* by Phil Austin {{int}} -->
-<!-- *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland {{beg}} -->
-<!-- *Amazon Web Services* {{beg}} -->
-<!-- Julia course? -->
-<!-- open panel on post-PhD career options -->
+<!-- - a session from ECOSCOPE (in contact) -->
+<!-- - *Speeding up Python code with C/C++* by Dmitri Rozmanov {{beg}} {{int}} -->
+<!-- - *HPC and deep learning labs in Microsoft Azure Cloud* {{beg}} -->
+<!-- - *Parallelization in Python 3 and large datasets* by Phil Austin {{int}} -->
+<!-- - *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland {{beg}} -->
+<!-- - Julia course? -->
+<!-- - open panel on post-PhD career options -->
