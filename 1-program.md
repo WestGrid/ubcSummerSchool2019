@@ -24,19 +24,27 @@ Exact room locations will be announced at the beginnning of June.
 
 &nbsp;
 
-<!-- Tentative: -->
-<!-- - *Building a bioinformatics pipeline with SnakeMake* from "Jamie's colleague (3 hours) -->
-<!-- - *Elastic cloud and S3* by Dell (1/2-day hands-on) -->
-<!-- - *CUDA* by Nvidia (waiting for confirmation) -->
-<!-- - a session from ECOSCOPE (in contact) -->
+
+
+
+
+
+<!-- Notes: -->
+<!-- *Tensor flow and machine learning* by Nvidia: confirmed -->
+<!-- *Jupyter Notebooks* with Ian Allison (PIMS): initial response is very positive, 50-75% confirmed -->
+<!-- *Elastic cloud and DELL/EMC object storage platform* by Dell (1/2-day hands-on): still working with DELL -->
+<!-- *Building a bioinformatics pipeline with SnakeMake* from "Jamie's colleague (3 hours) -->
+<!-- *CUDA* by Nvidia (waiting for confirmation) -->
+
+
+
 
 <!-- Other: -->
-<!-- - *Speeding up Python code with C/C++* by Dmitri Rozmanov {{beg}} {{int}} -->
-<!-- - *HPC and deep learning labs in Microsoft Azure Cloud* {{beg}} -->
-<!-- - *Parallelization in Python 3 and large datasets* by Phil Austin {{int}} -->
-<!-- - *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland {{beg}} -->
-<!-- - *Amazon Web Services* {{beg}} -->
-<!-- - Julia course? -->
-<!-- - open panel on post-PhD career options -->
-
-<!-- <strike>Python scripting for Scientists</strike> -->
+<!-- a session from ECOSCOPE (in contact) -->
+<!-- *Speeding up Python code with C/C++* by Dmitri Rozmanov {{beg}} {{int}} -->
+<!-- *HPC and deep learning labs in Microsoft Azure Cloud* {{beg}} -->
+<!-- *Parallelization in Python 3 and large datasets* by Phil Austin {{int}} -->
+<!-- *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland {{beg}} -->
+<!-- *Amazon Web Services* {{beg}} -->
+<!-- Julia course? -->
+<!-- open panel on post-PhD career options -->
