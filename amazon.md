@@ -27,6 +27,7 @@ globally.
 
 **Level**: 
 
-**Prerequisites**: This is an introductory course, no prior experience is required. 
+**Prerequisites**: None. However, it would help if participants already have AWS accounts set up that
+they can work in during the course. If not, AWS will provide guest accounts.
 
-**Laptop software**: 
+**Laptop software**: None. However, internet access will be required.
