@@ -8,7 +8,7 @@ nav: true
 {% capture int %}![intermediate](images/intermediate.png){% endcapture %}
 {% capture exp %}![expert](images/expert.png){% endcapture %}
 
-Exact room locations will be announced at the beginnning of June.
+Exact room locations will be announced closer to the date of the school.
 
 | date and time | Stream 1 | Stream 2 |
 | ------------- | --------------- | ----------------- |
@@ -19,7 +19,7 @@ Exact room locations will be announced at the beginnning of June.
 | Wed **26th** morning 9:00am-12:00pm | [*Scientific Visualization (part 1)*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |
 | Wed **26th** afternoon 1:00pm-4:00pm | [*Scientific Visualization (part 2)*](visualization) by Alex Razoumov {{beg}} | [*MATLAB Parallel Computing*](parallelMatlab) by Sam Marshalik {{beg}} |
 | Thu **27th** morning 9:00am-12:00pm | [*Chapel parallel programming*](chapel) by Alex Razoumov {{beg}}{{int}} | *Tensor flow and machine learning* by Nvidia |
-| Thu **27th** afternoon 1:00pm-4:00pm | *Building a bioinformatics pipeline with SnakeMake* by Brian McConeghy | [*HPC on Amazon Web Services*](amazon) by Kevin Jorissen |
+| Thu **27th** afternoon 1:00pm-4:00pm | [*Building a bioinformatics pipeline with SnakeMake*](snakemake) by Brian McConeghy {{int}} | [*HPC on Amazon Web Services*](amazon) by Kevin Jorissen |
 {:.mbtablestyle}
 
 &nbsp;
@@ -29,8 +29,9 @@ Exact room locations will be announced at the beginnning of June.
 
 
 <!-- Notes: -->
+<!-- - IP ranges for Eduroam / guest WiFi networks to whitelist them on Cedar (pass these to Lixin) -->
 <!-- - rooms: we are waiting until June-05 to finalize, either Nest or Pharmaceutical Sciences building -->
-<!-- - WG advertising: asked Jana -->
+<!-- - WG advertising: email going out on Monday May-27 -->
 <!-- - UBC advertising: already posted in the internal slack channel, ARC webpage, digital signage, currently -->
 <!--   printing out Jana's poster, will email ECOSCOPE -->
 <!-- - as of May-22, we have 42/190 registrants -->
@@ -46,7 +47,7 @@ Exact room locations will be announced at the beginnning of June.
 <!--   assume we can fit it (either cancellation or Stream 3) and ask the instructor for syllabus -->
 <!-- - May-22 *CUDA* by Nvidia: still waiting for confirmation -->
 <!-- - next meeting Tue June-04 noon at UBC in person -->
-
+<!-- - Bill Tubbs from UBC would like to teach pandas + scipy for big data processing -->
 
 <!-- Other: -->
 <!-- - *Web scraping with Python APIs* by Eugene or Skyler (?): they cancelled -->
