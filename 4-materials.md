@@ -4,6 +4,5 @@ title: Materials
 nav: true
 ---
 
-To access any posted materials before/during the school, please check individual session pages in the
-[program]({{ site.baseurl }}/1-program.html). After the summer school finishes, all course materials will
-be added to this page as we receive them from the instructors.
+We will be adding course materials to this page during and after the summer school. For more course
+details now, please check individual session pages in the [program]({{ site.baseurl }}/1-program.html).

@@ -32,7 +32,7 @@ will need to bring their laptops (and perhaps a power cord for use throughout th
 access and should have <a href="https://www.paraview.org/download" target="_blank">ParaView installed</a>
 before the workshop. If you want to follow *plot.ly* exercises at the beginning of the workshop, we also
 recommend installing a remote SSH client (on Windows laptops we recommend <a
-href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition</a>; on Mac and Linux
-laptops no need to install anything). We will provide all sample data and codes for the exercises, and
-you can bring your dataset if you want to visualize it with ParaView. No need to install *plot.ly* on
-your laptop -- we will have it installed on our remote cluster.
+href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition of MobaXterm</a>; on
+Mac and Linux laptops no need to install anything). We will provide all sample data and codes for the
+exercises, and you can bring your dataset if you want to visualize it with ParaView. No need to install
+*plot.ly* on your laptop -- we will have it installed on our remote cluster.

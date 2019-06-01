@@ -33,6 +33,6 @@ workshop. Also, we strongly recommend that all attendees have the working knowle
 
 **Laptop software**: All attendees will need to bring their laptops with wireless access and with a
 remote SSH client installed (on Windows laptops we recommend <a
-href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition</a>; on Mac and Linux
-laptops no need to install anything). We will be using Chapel on a remote cluster, but it can also be
-installed on laptops from https://chapel-lang.org.
+href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition of MobaXterm</a>; on
+Mac and Linux laptops no need to install anything). We will be using Chapel on a remote cluster, but it
+can also be installed on laptops from https://chapel-lang.org.
