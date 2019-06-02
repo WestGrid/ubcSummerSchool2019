@@ -7,26 +7,39 @@ nav: true
 # Instructor information
 
 We highly encourage all instructors to show demos and offer hands-on exercises on HPC systems, whether
-real production or simulated clusters inside a VM. Please prepare your setup well before the school
-begins: it is your own responsibility to make sure that in the class all attendees will be able to log in
-and do the exercises on the cluster of your choice, and that this cluster has the necessary setup and
-software.
+Compute Canada production clusters or simulated clusters inside a VM. Please prepare your setup well
+before the school begins: it is your own responsibility to make sure that in the class all attendees can
+log in and follow exercises on the cluster of your choice, and that this cluster has the necessary setup
+and software.
 
 ## Cedar and Graham
 
-For this summer school, we will have reservations and guest accounts on Cedar and Graham. On production
-clusters, we prefer all attendees to use their own Compute Canada accounts during the school, however,
-some attendees will not have accounts, hence guest accounts.
+### Guest accounts
 
-All real account holders will need to be added to the reservation. We will try to add all registrants
-with confirmed accounts before the start of the school, but since we are working with partial
+For this summer school, we have prepared 120 guest accounts and reservations on Cedar and Graham. On
+these two clusters, we prefer all attendees to use their own Compute Canada accounts during the school,
+however, some will not have an account, hence guest accounts. We will be providing guest accounts on
+small slips of paper before the beginning of your class.
+
+### Reservations
+
+For the summer school, we have created Slurm reservations on Cedar and Graham. To run jobs under these
+reservations, please use (and pass to your audience) the following Slurm flags:
+
+```
+--account=to_be_filled --reservation=to_be_filled
+```
+
+Please note that these reservations will start on Sunday (June-23) morning, one day early for
+testing. All real account holders will need to be added to the reservation. We will try to add all
+registrants with confirmed accounts before the start of the school, but since we are working with partial
 information, some attendees will need to be added on the fly during your course. The school organizers
-will have to add them by hand. If you expect this, please coordinate with Alex Razoumov in advance.
+will have to add them by hand. We will be coordinating this before your class.
 
-Production clusters can be down for maintenance work (this has happened with us in the past with little
-previous warning), the scheduler or one of the parallel file systems can be overwhelmed with too many
-requests and thus not be available. In other words, a production system is not guaranteed to be available
-for demos and training 24/7.
+Please note that Compute Canada production clusters can be down for emergency maintenance work (this has
+happened with us in the past with little previous warning), the scheduler or one of the parallel file
+systems can be overwhelmed with too many requests, etc. In other words, a production system is not
+guaranteed to be available for demos and training 24/7, so make sure you have a backup.
 
 ## Training cluster in an Arbutus VM
 
@@ -54,41 +67,23 @@ If you want to set up your own cluster, please contact Alex Razoumov well before
 
 ## Course requirements
 
-1. All courses must have hands-on exercises for the attendees.
-1. Whenever possible, courses must show examples on our training cluster. For example, when demonstrating
-   a workflow in a programming language, show the entire process (writing code, compiling it, and running
-   it in a Slurm job) on the cluster, not just inside the IDE on your laptop.
-  - at the minimum, please show some examples on the cluster
-  - if applicable to your course, demonstrate scaling up to large problem sizes and many cores/nodes
+All courses must have hands-on exercises for the attendees. Whenever possible, courses must show examples
+in a proper HPC environment. For example, when demonstrating a workflow in a programming language, show
+the entire process (writing code, compiling it, and running it in a Slurm job) on the cluster, not just
+inside the IDE on your laptop. If applicable to your course, please demonstrate scaling up to large
+problem sizes and many cores/nodes.
 
-If you need any help in porting your workflow to the training cluster, please let the summer school
-organizers know early on.
+If you need any help in porting your workflow to an HPC system, please let the summer school organizers
+know early on.
 
 ## Please send to us
 
 1. your approximate course syllabus (you can always iterate on it later),
 1. any information you would like to pass to attendees: what software they need to install on their
-   laptop, prerequisites for this course, the level of difficulty (beginner / intermediate / expert), and
+   laptop, prerequisites for this course, the level of difficulty (beginner / intermediate / expert), any
+   external links, and
 1. if using significant cluster resources, what hardware configuration you need per each student, e.g.,
    (2 MPI tasks) x (3 cores per task)
 
 Please check the online description of your course in the program and let us know if you want to add or
 change anything.
-
-<!-- ## Using reservations on Cedar and Graham -->
-
-<!-- To use the summer school reservations on the clusters, in addition to all other flags, you will need to -->
-<!-- pass the following flags to Slurm: -->
-
-<!-- * for CPU jobs: -->
-<!-- ~~~ {.bash} -->
-<!-- --account=wgssubc-wa_cpu --reservation=wgssubc-wr_cpu -->
-<!-- ~~~ -->
-
-<!-- * for GPU jobs  -->
-<!-- ~~~ {.bash} -->
-<!-- --gres=gpu:1 --account=wgssubc-wa_gpu --reservation=wgssubc-wr_gpu -->
-<!-- ~~~ -->
-
-<!-- All instructors, registered attendees with CC accounts, and all guest accounts have been added to the -->
-<!-- reservations. If you need to add anyone else to a reservation, please contact Alex Razoumov. -->

@@ -10,19 +10,17 @@ nav: false
 
 An introduction to high-performance computing for those without any HPC experience.
 
-We will start with an overview of the hardware of common HPC clusters and a quick description of the
-resources available on Compute Canada's national systems (Cedar, Graham, Niagara). We will then continue
-learning the basic tools and techniques to work on a cluster: software environment and modules, overview
-of installed programming languages and compilers, working with make and Makefiles, and installing new
-software locally. Finally, we will take a look at Slurm job scheduler: why use it, fairshare and
-priority, submitting serial jobs and job arrays, submitting OpenMP / MPI / hybrid / GPU jobs, working
-inside interactive jobs, and tracking your job's memory usage. We will also take a quick look at working
-with common packages such as R, Python and Matlab on the clusters, as well as best practices in cluster
+We will start with an overview of the HPC cluster hardware and a quick description of the resources
+available on Compute Canada's national systems (Cedar, Graham, Béluga, Niagara). We will then take a look
+at the basic tools and techniques for working on a cluster: software environment and modules, overview of
+installed programming languages and compilers, quick introduction to parallel programming frameworks,
+working with make and Makefiles, and installing new software locally. Next, we will discuss Slurm job
+scheduler: why use it, fairshare and priority, submitting serial jobs and job arrays, submitting OpenMP /
+MPI / hybrid / GPU jobs, working inside interactive jobs, and tracking your job's memory usage. We will
+also take a quick look at working with Python and R on the clusters, as well as best practices in cluster
 workflows.
 
 **Target audience**: general
-
-<!-- **Course plan**: -->
 
 **Duration**: 6 hours
 

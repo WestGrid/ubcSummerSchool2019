@@ -9,7 +9,7 @@ nav: false
 
 **Instructor**: Alex Razoumov (WestGrid)
 
-This session will be a hands-on introduction to Linux command line and the interaction with a remote
+This session will be a hands-on introduction to the Linux command line and the interaction with a remote
 server. We will review basic Linux commands, file management (edit, copy, remove and remote-transfer
 files), directories and the file system, remote access, and bash scripting.
 

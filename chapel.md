@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to HPC
+title: Chapel parallel programming
 nav: false
 ---
 

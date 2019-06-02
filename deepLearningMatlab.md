@@ -4,7 +4,8 @@ title: Practical Applications of Deep Learning with MATLAB
 nav: false
 ---
 
-# Practical Applications of Deep Learning -- a Hands-on MATLAB Workshop
+# Practical Applications of Deep Learning
+## Hands-on MATLAB Workshop
 
 <!-- original title: Tensor Flow for CNN (Deep Learning) in MATLAB by MathWorks -->
 
@@ -38,4 +39,30 @@ In this hands-on workshop, you will write code and use MATLAB to:
 free</a>.
 
 **Laptop software**: All attendees will need to bring laptops with wireless access. For the hands-on, we
-will be using MATLAB Online hosted on MathWorks site.
+will be using MATLAB Online hosted on MathWorks site. The steps below will help you to get access to the
+workshop environment.
+
+*Step 1:* Go to <a href="https://www.mathworks.com/licensecenter/classroom/DL_Calgary_May2019"
+target="_blank">MATLAB Online workshop environment</a>. You will see a screen similar to this:
+
+![alt text]({{ site.baseurl }}/images/matlab001.png "Step 1")
+
+*Step 2:* When prompted, please enter your credentials for your MathWorks account. If you don't have a
+MathWorks account yet, you can create one before or during the class.
+
+- Creating a MathWorks account now will save you time during the hands-on session.
+- You will need to access your email to create an account.
+- You may need to select the Access MATLAB Online button (see the screen capture below) in order to
+  continue with the login process.
+
+![alt text]({{ site.baseurl }}/images/matlab002.png "Step 1")
+
+*Step 3*: Once you successfully log in with your credentials, you will get access to the MATLAB Online
+environment, and the page in your browser should look like this:
+
+![alt text]({{ site.baseurl }}/images/matlab003.png "Step 1")
+
+*Step 4:* Are you able to see a folder named *Workshop* in the Current Folder window? Below is a screen
+capture of the *Workshop* folder which should contain three subfolders:
+
+![alt text]({{ site.baseurl }}/images/matlab004.png "Step 4")
