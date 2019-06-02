@@ -6,3 +6,14 @@ nav: true
 
 We will be adding course materials to this page during and after the summer school. For more course
 details now, please check individual session pages in the [program]({{ site.baseurl }}/1-program.html).
+
+### Introduction to the Linux command line
+
+- Bash Scripting and Tools: <a href="https://github.com/razoumov/publish/blob/master/bash.md" target="_blank">lesson notes</a>
+
+### Machine learning
+
+- Practical Applications of Deep Learning with MATLAB:
+  [ZIP file](https://owncloud.westgrid.ca/index.php/s/1FAOGguOWHuTp2Z/download) with slides and other
+  files. Some of the larger files were excluded to keep the file size small. If you want these large
+  datasets, please contact the instructor rteramot at mathworks dot com.
