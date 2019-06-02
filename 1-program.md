@@ -14,7 +14,7 @@ Exact room locations will be announced closer to the date of the school.
 | ------------- | --------------- | ----------------- |
 | Mon **24th** morning 9:00am-12:00pm | [*Bash Scripting and Tools*](bash) by Alex Razoumov {{beg}} | [*Next-Gen Sequencing*](ngs) by Phillip Richmond and Oriol Fornés {{beg}} {{int}} {{exp}} |
 | Mon **24th** afternoon 1:00pm-4:00pm | *Compute Canada cloud* by Venkat Mahadevan {{beg}} | *Jupyter Notebooks* by Ian Allison (PIMS) |
-| Tue **25th** morning 9:00am-12:00pm | [*Introduction to HPC (part 1)*](introHPC) by Alex Razoumov {{beg}} | *Databases* by Wolfgang Richter {{beg}} |
+| Tue **25th** morning 9:00am-12:00pm | [*Introduction to HPC (part 1)*](introHPC) by Alex Razoumov {{beg}} | [*Introduction to databases on Cedar*](databases) by Wolfgang Richter {{beg}} |
 | Tue **25th** afternoon 1:00pm-4:00pm | [*Introduction to HPC (part 2)*](introHPC) by Alex Razoumov {{beg}} | • 1pm-2:15pm *Best practices in data security and privacy* by Scott Baker <br> • 2:30pm-4pm *REDCap platform* by Michael Tang |
 | Wed **26th** morning 9:00am-12:00pm | [*Scientific Visualization (part 1)*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |
 | Wed **26th** afternoon 1:00pm-4:00pm | [*Scientific Visualization (part 2)*](visualization) by Alex Razoumov {{beg}} | [*MATLAB Parallel Computing*](parallelMatlab) by Sam Marshalik {{beg}} |
