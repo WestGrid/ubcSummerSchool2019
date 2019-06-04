@@ -28,11 +28,17 @@ Exact room locations will be announced closer to the date of the school.
 
 
 
-<!-- once reach the cap, garth will send me the connection details + platform selection -->
 <!-- Thursday 4pm 'HPC career panel': Charlotte Fisher will be one of the presenters -->
-<!-- venkat last year's -->
-<!-- rooms should know by the end of Thu - wait until Fri -->
-<!-- Bill Tubbs -- might have a cancellation from Nvidia, ask him about his availability -->
+
+
+
+<!-- streaming: -->
+<!-- - Garth will decide in the next few days whether he is going to broadcast one or two sessions, and on the -->
+<!--   streaming platform (choice between Vidyo and another one). By Friday we should also know the exact -->
+<!--   rooms we’ll be teaching in (either Nest or Pharmaceutical Sciences). That will determine whether we can -->
+<!--   bump up the registration cap or not. -->
+<!-- - someone will be monitoring the chat / etherpad for questions -->
+<!-- - UBCO (Wade) will to try a dedicated room for showing three sessions (cloud, my HPC or bash, one more) -->
 
 
 
