@@ -55,20 +55,16 @@ Exact room locations will be announced closer to the date of the school.
 <!--   definitely coming to Vancouver -->
 <!-- - already have 120 CCDB guest accounts; will request 10 base CPU-only nodes on Cedar/Graham -->
 <!-- - May-22 course helpers: this year no interns, Kamil will start looking into this today -->
-<!-- - *Tensor flow and machine learning* by Nvidia: confirmed -->
 <!-- - *Jupyter Notebooks* with Ian Allison (PIMS): initial response is very positive, 50-75% confirmed -->
 <!-- - *Elastic cloud and DELL/EMC object storage platform* by Dell (1/2-day hands-on): still working with DELL -->
 <!-- - *Building a bioinformatics pipeline with SnakeMake* (3 hours) from Jamie's colleague (Brian?) - let's -->
 <!--   assume we can fit it (either cancellation or Stream 3) and ask the instructor for syllabus -->
-<!-- - May-22 *CUDA* by Nvidia: still waiting for confirmation -->
+<!-- - May-22 *CUDA* by Nvidia: asked but likely not -->
 <!-- - next meeting Tue June-04 noon at UBC in person -->
-<!-- - Bill Tubbs from UBC would like to teach pandas + scipy for big data processing -->
-
-<!-- Other: -->
+<!-- - Bill Tubbs (UBC) would like to teach pandas + scipy for big data processing; decide on June-14 based on Nvidia's response -->
 <!-- - *Web scraping with Python APIs* by Eugene or Skyler (?): they cancelled -->
-<!-- - a session from ECOSCOPE (in contact), perhaps - *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland -->
+<!-- - a session from ECOSCOPE (in contact), *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland -->
 <!-- - *Speeding up Python code with C/C++* by Dmitri Rozmanov -->
 <!-- - *HPC and deep learning labs in Microsoft Azure Cloud* -->
 <!-- - *Parallelization in Python 3 and large datasets* by Phil Austin -->
 <!-- - Julia course? -->
-<!-- - open panel on post-PhD career options -->
