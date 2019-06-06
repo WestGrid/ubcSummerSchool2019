@@ -27,7 +27,7 @@ For the summer school, we have created Slurm reservations on Cedar and Graham. T
 reservations, please use (and pass to your audience) the following Slurm flags:
 
 ```
---account=to_be_filled --reservation=to_be_filled
+--account=ubcss19-wa_cpu --reservation=ubcss19-wr_cpu
 ```
 
 Please note that these reservations will start on Sunday (June-23) morning, one day early for

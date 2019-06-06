@@ -8,12 +8,20 @@ nav: true
 {% capture int %}![intermediate](images/intermediate.png){% endcapture %}
 {% capture exp %}![expert](images/expert.png){% endcapture %}
 
-Exact room locations will be announced closer to the date of the school.
+All sessions will take place in the Pharmaceutical Sciences Building at 2405 Wesbrook Mall. Please click
+on each session title to get detailed information for that course: abstract, prerequisites, software
+requirements (if any). Note that we can swap rooms without an email notice based on the latest projected
+attendance, so please check this program before coming to class.
 
-| date and time | Stream 1 | Stream 2 |
+<!-- Pharmaceutical Sciences Building -->
+<!-- 2405 Wesbrook Mall, Vancouver, BC V6T 1Z3 -->
+<!-- PHRM 1101 capacity 236 -->
+<!-- PHRM 1201 capacity 167 -->
+
+| date and time | PHRM 1101 | PHRM 1201 |
 | ------------- | --------------- | ----------------- |
 | Mon **24<sup>th</sup>** morning 9:00am-12:00pm | [*Bash Scripting and Tools*](bash) by Alex Razoumov {{beg}} | [*Next-Gen Sequencing*](ngs) by Phillip Richmond and Oriol Fornés {{beg}} {{int}} {{exp}} |
-| Mon **24<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Compute Canada cloud*](ccCloud) by Venkat Mahadevan {{beg}} | *Jupyter Notebooks* by Ian Allison (PIMS) |
+| Mon **24<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Compute Canada cloud*](ccCloud) by Venkat Mahadevan {{beg}} | [*Jupyter Notebooks*](jupyter) by Ian Allison (PIMS) {{beg}} |
 | Tue **25<sup>th</sup>** morning 9:00am-12:00pm | [*Introduction to HPC (part 1)*](introHPC) by Alex Razoumov {{beg}} | [*Introduction to databases on Cedar*](databases) by Wolfgang Richter {{beg}} |
 | Tue **25<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Introduction to HPC (part 2)*](introHPC) by Alex Razoumov {{beg}} | • 1pm-2:15pm *Best practices in data security and privacy* by Scott Baker <br> • 2:30pm-4pm *REDCap platform* by Michael Tang |
 | Wed **26<sup>th</sup>** morning 9:00am-12:00pm | [*Scientific Visualization (part 1)*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |

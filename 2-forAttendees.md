@@ -7,9 +7,9 @@ nav: true
 # Instructions for attendees
 
 Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. The sessions will take
-place in rooms *(to be filled in)* -- for details please see the [program]({{ site.baseurl
-}}/1-program.html). The program will continue to be updated as details are confirmed for room
-assignments, session times and detailed course information.
+place in rooms PHRM 1101 and PHRM 1201 (Pharmaceutical Sciences Building) -- for details please see the
+[program]({{ site.baseurl }}/1-program.html). The program will continue to be updated as details are
+confirmed for room assignments, session times and detailed course information.
 
 ## Linux command line
 
