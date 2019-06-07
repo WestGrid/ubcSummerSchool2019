@@ -36,8 +36,6 @@ attendance, so please check this program before coming to class.
 
 
 
-<!-- Thursday 4pm 'HPC career panel': Charlotte Fisher will be one of the presenters -->
-
 
 
 <!-- streaming: -->
@@ -50,17 +48,10 @@ attendance, so please check this program before coming to class.
 
 
 
-
-<!-- Notes: -->
+<!-- Thursday 4pm 'HPC career panel': Charlotte Fisher will be one of the presenters -->
+<!-- likely https://www.sli.do for remote questions -->
 <!-- - Roman will do: IP ranges for Eduroam / guest WiFi networks to whitelist them on Cedar (pass these to Lixin) -->
-<!-- - rooms: we are waiting until June-05 to finalize, either Nest or Pharmaceutical Sciences building -->
-<!-- - WG advertising: email going out on Monday May-27 -->
-<!-- - UBC advertising: already posted in the internal slack channel, ARC webpage, digital signage, currently -->
-<!--   printing out Jana's poster, will email ECOSCOPE -->
-<!-- - as of May-22, we have 42/190 registrants -->
 <!-- - wifi access for UBC visitors: Garth will check and get back to me -->
-<!-- - May-22 recording and broadcasting: Garth is meeting with A/V folks today to finalize streaming tech, -->
-<!--   definitely coming to Vancouver -->
 <!-- - already have 120 CCDB guest accounts; will request 10 base CPU-only nodes on Cedar/Graham -->
 <!-- - May-22 course helpers: this year no interns, Kamil will start looking into this today -->
 <!-- - *Jupyter Notebooks* with Ian Allison (PIMS): initial response is very positive, 50-75% confirmed -->
@@ -69,7 +60,7 @@ attendance, so please check this program before coming to class.
 <!--   assume we can fit it (either cancellation or Stream 3) and ask the instructor for syllabus -->
 <!-- - May-22 *CUDA* by Nvidia: asked but likely not -->
 <!-- - next meeting Tue June-04 noon at UBC in person -->
-<!-- - Bill Tubbs (UBC) would like to teach pandas + scipy for big data processing; decide on June-14 based on Nvidia's response -->
+<!-- - Bill Tubbs (UBC) would like to teach pandas + scipy for big data processing; decide on June-14 based on Nvidia's response, coordinate possible topic overlap with Ian Allison -->
 <!-- - *Web scraping with Python APIs* by Eugene or Skyler (?): they cancelled -->
 <!-- - a session from ECOSCOPE (in contact), *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland -->
 <!-- - *Speeding up Python code with C/C++* by Dmitri Rozmanov -->

@@ -12,7 +12,8 @@ The morning sessions will take place from 9:00am to noon, and the afternoon sess
 be updated as details are confirmed for room assignments, session times and detailed course information.
 
 If you attend Day 1 morning courses, please arrive early (20-30 mins) to register, as this is the busiest
-time at the registration desk.
+time at the registration desk. The registration desk will be located just outside rooms PHRM 1101 and
+PHRM 1201.
 
 ## Linux command line
 

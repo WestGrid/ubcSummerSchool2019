@@ -30,11 +30,11 @@ reservations, please use (and pass to your audience) the following Slurm flags:
 --account=ubcss19-wa_cpu --reservation=ubcss19-wr_cpu
 ```
 
-Please note that these reservations will start on Sunday (June-23) morning, one day early for
-testing. All real account holders will need to be added to the reservation. We will try to add all
-registrants with confirmed accounts before the start of the school, but since we are working with partial
-information, some attendees will need to be added on the fly during your course. The school organizers
-will have to add them by hand. We will be coordinating this before your class.
+Please note that these reservations will start on Monday (June-24) morning, one hour early for
+testing. All real account holders will need to be added to the reservation. We will ask all registrants
+with confirmed accounts to send us their usernames to be added to the reservations, but -- since we are
+working with partial information -- some attendees will need to be added on the fly during your
+course. School organizers will be coordinating this before your class.
 
 Please note that Compute Canada production clusters can be down for emergency maintenance work (this has
 happened with us in the past with little previous warning), the scheduler or one of the parallel file
