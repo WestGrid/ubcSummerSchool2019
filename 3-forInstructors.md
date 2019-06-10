@@ -32,7 +32,7 @@ reservations, please use (and pass to your audience) the following Slurm flags:
 
 Please note that these reservations will start on Monday (June-24) morning, one hour early for
 testing. All real account holders will need to be added to the reservation. We will ask all registrants
-with confirmed accounts to send us their usernames to be added to the reservations, but -- since we are
+with existing accounts to send us their usernames to be added to the reservations, but -- since we are
 working with partial information -- some attendees will need to be added on the fly during your
 course. School organizers will be coordinating this before your class.
 

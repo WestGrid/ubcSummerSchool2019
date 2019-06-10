@@ -15,8 +15,6 @@ files), directories and the file system, remote access, and bash scripting.
 
 **Target audience**: general
 
-<!-- **Course plan**: -->
-
 **Duration**: 3 hours
 
 **Level**: beginner

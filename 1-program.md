@@ -26,7 +26,7 @@ attendance, so please check this program before coming to class.
 | Tue **25<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Introduction to HPC (part 2)*](introHPC) by Alex Razoumov {{beg}} | • 1pm-2:15pm *Best practices in data security and privacy* by Scott Baker <br> • 2:30pm-4pm *REDCap platform* by Michael Tang |
 | Wed **26<sup>th</sup>** morning 9:00am-12:00pm | [*Scientific Visualization (part 1)*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |
 | Wed **26<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Scientific Visualization (part 2)*](visualization) by Alex Razoumov {{beg}} | [*MATLAB Parallel Computing*](parallelMatlab) by Sam Marshalik {{beg}} |
-| Thu **27<sup>th</sup>** morning 9:00am-12:00pm | [*Chapel parallel programming*](chapel) by Alex Razoumov {{beg}}{{int}} | *Tensor flow and machine learning* by Nvidia |
+| Thu **27<sup>th</sup>** morning 9:00am-12:00pm | [*Chapel parallel programming*](chapel) by Alex Razoumov {{beg}}{{int}} | [*Tensor flow and machine learning*](tensorFlow) by Griffin Lacey {{beg}} |
 | Thu **27<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Building a bioinformatics pipeline with SnakeMake*](snakemake) by Brian McConeghy {{int}} | [*HPC on Amazon Web Services*](amazon) by Kevin Jorissen |
 | Thu **27<sup>th</sup>** 4pm-5pm | Open panel on HPC career options | |
 {:.mbtablestyle}
