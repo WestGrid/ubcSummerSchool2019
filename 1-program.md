@@ -48,22 +48,13 @@ attendance, so please check this program before coming to class.
 
 
 
-<!-- Thursday 4pm 'HPC career panel': Charlotte Fisher will be one of the presenters -->
-<!-- likely https://www.sli.do for remote questions -->
-<!-- - Roman will do: IP ranges for Eduroam / guest WiFi networks to whitelist them on Cedar (pass these to Lixin) -->
+<!-- Thursday 4pm 'HPC career panel' details; Charlotte Fisher will be one of the presenters -->
+<!-- likely we'll use https://www.sli.do for remote questions -->
 <!-- - wifi access for UBC visitors: Garth will check and get back to me -->
-<!-- - already have 120 CCDB guest accounts; will request 10 base CPU-only nodes on Cedar/Graham -->
-<!-- - May-22 course helpers: this year no interns, Kamil will start looking into this today -->
-<!-- - *Jupyter Notebooks* with Ian Allison (PIMS): initial response is very positive, 50-75% confirmed -->
-<!-- - *Elastic cloud and DELL/EMC object storage platform* by Dell (1/2-day hands-on): still working with DELL -->
-<!-- - *Building a bioinformatics pipeline with SnakeMake* (3 hours) from Jamie's colleague (Brian?) - let's -->
-<!--   assume we can fit it (either cancellation or Stream 3) and ask the instructor for syllabus -->
-<!-- - May-22 *CUDA* by Nvidia: asked but likely not -->
-<!-- - next meeting Tue June-04 noon at UBC in person -->
-<!-- - Bill Tubbs (UBC) would like to teach pandas + scipy for big data processing; decide on June-14 based on Nvidia's response, coordinate possible topic overlap with Ian Allison -->
-<!-- - *Web scraping with Python APIs* by Eugene or Skyler (?): they cancelled -->
-<!-- - a session from ECOSCOPE (in contact), *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland -->
-<!-- - *Speeding up Python code with C/C++* by Dmitri Rozmanov -->
-<!-- - *HPC and deep learning labs in Microsoft Azure Cloud* -->
-<!-- - *Parallelization in Python 3 and large datasets* by Phil Austin -->
-<!-- - Julia course? -->
+<!-- - already have 120 CCDB guest accounts; requested 10 base CPU-only nodes on Cedar/Graham -->
+<!-- - course helpers: Kamil is looking into this, we already have volunteers -->
+<!-- - potential *Elastic cloud and DELL/EMC object storage platform* by Dell (1/2-day hands-on): not this year -->
+<!-- - potential *CUDA* by Nvidia: not this year -->
+<!-- - Bill Tubbs (UBC) would like to teach pandas + scipy for big data processing: not this year -->
+<!-- - *Web scraping with Python APIs* by Eugene or Skyler (?): cancelled -->
+<!-- - potential ECOSCOPE session *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland -->

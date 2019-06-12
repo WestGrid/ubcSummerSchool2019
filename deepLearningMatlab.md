@@ -40,7 +40,8 @@ free</a>.
 
 **Laptop software**: All attendees will need to bring laptops with wireless access. For the hands-on, we
 will be using MATLAB Online hosted on MathWorks site. The steps below will help you to get access to the
-workshop environment.
+workshop environment. Also, please download the course
+[ZIP file](https://owncloud.westgrid.ca/index.php/s/JUrvwg6bABk1Fyu/download) with slides and exercises.
 
 *Step 1:* Go to <a href="https://www.mathworks.com/licensecenter/classroom/DL_Calgary_May2019"
 target="_blank">MATLAB Online workshop environment</a>. You will see a screen similar to this:
