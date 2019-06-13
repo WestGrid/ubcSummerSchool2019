@@ -18,3 +18,8 @@ nav: false
 <!-- It is my first crack, if you think we need to change the title or anything within the above please feel -->
 <!-- free. I think that announcing the panelist and giving some info about them can boost interest and -->
 <!-- attendance. I still think that we will have at most 60 ...so the upper mezzanine is o.k. -->
+
+**Time**: Thursday at 4pm, right after the last session of the day (and of the summer school).
+
+Please join our panelists for a discussion in the upper mezzanine level of the Pharmaceutical Sciences
+Building (2405 Wesbrook Mall), just above the summer school auditoria.
