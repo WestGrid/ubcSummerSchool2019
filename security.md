@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Best practices in data security and privacy
+title: Best practices in data security
 nav: false
 ---
 
-# Best practices in data security and privacy
+# Best practices in data security
 
 **Instructor**: Scott Baker (UBC)
 

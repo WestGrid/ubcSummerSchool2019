@@ -23,12 +23,12 @@ attendance, so please check this program before coming to class.
 | Mon **24<sup>th</sup>** morning 9:00am-12:00pm | [*Bash Scripting and Tools*](bash) by Alex Razoumov {{beg}} | [*Next-Gen Sequencing*](ngs) by Phillip Richmond and Oriol Fornés {{beg}} {{int}} {{exp}} |
 | Mon **24<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Compute Canada cloud*](ccCloud) by Venkat Mahadevan {{beg}} | [*Jupyter Notebooks*](jupyter) by Ian Allison (PIMS) {{beg}} |
 | Tue **25<sup>th</sup>** morning 9:00am-12:00pm | [*Introduction to HPC (part 1)*](introHPC) by Alex Razoumov {{beg}} | [*Introduction to databases on Cedar*](databases) by Wolfgang Richter {{beg}} |
-| Tue **25<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Introduction to HPC (part 2)*](introHPC) by Alex Razoumov {{beg}} | • 1pm-2:15pm [*Data privacy and REDCap platform*](redcap) by Michael Tang <br> • 2:30pm-4pm [*Best practices in data security and privacy*](security) by Scott Baker |
+| Tue **25<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Introduction to HPC (part 2)*](introHPC) by Alex Razoumov {{beg}} | • 1pm-2:15pm [*Data privacy and REDCap platform*](redcap) by Michael Tang <br> • 2:30pm-4pm [*Best practices in data security*](security) by Scott Baker |
 | Wed **26<sup>th</sup>** morning 9:00am-12:00pm | [*Scientific Visualization (part 1)*](visualization) by Alex Razoumov {{beg}} | [*Practical Applications of Deep Learning with MATLAB*](deepLearningMatlab) by Reece Teramoto {{beg}}  |
 | Wed **26<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Scientific Visualization (part 2)*](visualization) by Alex Razoumov {{beg}} | [*MATLAB Parallel Computing*](parallelMatlab) by Sam Marshalik {{beg}} |
 | Thu **27<sup>th</sup>** morning 9:00am-12:00pm | [*Chapel parallel programming*](chapel) by Alex Razoumov {{beg}}{{int}} | [*Tensor flow and machine learning*](tensorFlow) by Griffin Lacey {{beg}} |
 | Thu **27<sup>th</sup>** afternoon 1:00pm-4:00pm | [*Building a bioinformatics pipeline with SnakeMake*](snakemake) by Brian McConeghy {{int}} | [*HPC on Amazon Web Services*](amazon) by Kevin Jorissen |
-| Thu **27<sup>th</sup>** 4pm-5pm | Open panel on HPC career options | |
+| Thu **27<sup>th</sup>** 4pm-5pm | [Open Panel on Career options, Academia and HPC](panel) | |
 {:.mbtablestyle}
 
 &nbsp;
