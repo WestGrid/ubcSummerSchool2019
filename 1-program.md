@@ -49,7 +49,6 @@ attendance, so please check this program before coming to class.
 
 
 <!-- Thursday 4pm 'HPC career panel' details; Charlotte Fisher will be one of the presenters -->
-<!-- likely we'll use https://www.sli.do for remote questions -->
 <!-- - wifi access for UBC visitors: Garth will check and get back to me -->
 <!-- - already have 120 CCDB guest accounts; requested 10 base CPU-only nodes on Cedar/Graham -->
 <!-- - course helpers: Kamil is looking into this, we already have volunteers -->

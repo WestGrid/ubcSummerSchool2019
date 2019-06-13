@@ -46,3 +46,7 @@ etc., so please make sure you can sign in to the campus WiFi. There are several 
 If you have a Compute Canada acount, you are encouraged to use it during the school. We will also be
 providing guest accounts. In some of the courses you will be using a training cluster in a virtual
 machine (VM), and in some courses you will be running jobs on real Compute Canada production clusters.
+
+## Broadcast
+
+We are planning to broadcast either one or both streams. We will be posting the connection details soon.
