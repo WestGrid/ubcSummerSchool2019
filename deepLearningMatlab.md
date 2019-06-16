@@ -43,7 +43,7 @@ will be using MATLAB Online hosted on MathWorks site. The steps below will help 
 workshop environment. Also, please download the course
 [ZIP file](https://owncloud.westgrid.ca/index.php/s/JUrvwg6bABk1Fyu/download) with slides and exercises.
 
-*Step 1:* Go to <a href="https://www.mathworks.com/licensecenter/classroom/DL_Calgary_May2019"
+*Step 1:* Go to <a href="https://www.mathworks.com/licensecenter/classroom/DL_UBC_jun2019"
 target="_blank">MATLAB Online workshop environment</a>. You will see a screen similar to this:
 
 ![alt text]({{ site.baseurl }}/images/matlab001.png "Step 1")
