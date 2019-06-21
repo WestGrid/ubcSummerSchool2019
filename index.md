@@ -23,6 +23,11 @@ For full course details, please check [the program]({{ site.baseurl }}/1-program
 anyone interested in building knowledge and skills for computational research to attend the
 school. Researchers in all disciplines and skill levels are welcome to register.
 
+We are planning to broadcast most of the sessions in both streams. To watch one of the live streams, if
+you are not able to attend in person, please go to <a
+href="https://mediasite.audiovisual.ubc.ca/Mediasite/Channel/ubc-arc-2019" target="_blank">this page</a>
+during the sessions, starting at 9am Pacific on Monday morning.
+
 <div class="toc" markdown="1">
 ## Contents:
 

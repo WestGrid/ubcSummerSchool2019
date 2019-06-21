@@ -49,4 +49,10 @@ machine (VM), and in some courses you will be running jobs on real Compute Canad
 
 ## Broadcast
 
-We are planning to broadcast either one or both streams. We will be posting the connection details soon.
+We are planning to broadcast most of the sessions in both streams. To watch one of the live streams,
+please go to <a href="https://mediasite.audiovisual.ubc.ca/Mediasite/Channel/ubc-arc-2019"
+target="_blank">this page</a> during the sessions, starting at 9am Pacific on Monday morning.
+
+
+<!--  -->
+<!-- This will take viewers to the landing page where they may view either of the 2 livestreams. -->

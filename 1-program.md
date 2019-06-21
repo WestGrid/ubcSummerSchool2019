@@ -13,6 +13,11 @@ on each session title to get detailed information for that course: abstract, pre
 requirements (if any). Note that we can swap rooms without an email notice based on the latest projected
 attendance, so please check this program before coming to class.
 
+We are planning to broadcast most of the sessions in both streams. To watch one of the live streams, if
+you are not able to attend in person, please go to <a
+href="https://mediasite.audiovisual.ubc.ca/Mediasite/Channel/ubc-arc-2019" target="_blank">this page</a>
+during the sessions, starting at 9am Pacific on Monday morning.
+
 <!-- Pharmaceutical Sciences Building -->
 <!-- 2405 Wesbrook Mall, Vancouver, BC V6T 1Z3 -->
 <!-- PHRM 1101 capacity 236 -->
