@@ -51,7 +51,10 @@ machine (VM), and in some courses you will be running jobs on real Compute Canad
 
 We are planning to broadcast most of the sessions in both streams. To watch one of the live streams,
 please go to <a href="https://mediasite.audiovisual.ubc.ca/Mediasite/Channel/ubc-arc-2019"
-target="_blank">this page</a> during the sessions, starting at 9am Pacific on Monday morning.
+target="_blank">this page</a> during the sessions, starting at 9am Pacific on Monday morning. To ask
+questions remotely, please use <a href="https://www.sli.do" target="_blank">https://www.sli.do</a> and
+paste the event code `HPC1` (Stream
+1) or `HPC2` (Stream 2).
 
 
 <!--  -->

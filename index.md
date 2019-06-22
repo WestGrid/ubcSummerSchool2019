@@ -26,7 +26,9 @@ school. Researchers in all disciplines and skill levels are welcome to register.
 We are planning to broadcast most of the sessions in both streams. To watch one of the live streams, if
 you are not able to attend in person, please go to <a
 href="https://mediasite.audiovisual.ubc.ca/Mediasite/Channel/ubc-arc-2019" target="_blank">this page</a>
-during the sessions, starting at 9am Pacific on Monday morning.
+during the sessions, starting at 9am Pacific on Monday morning. To ask questions remotely, please use <a
+href="https://www.sli.do" target="_blank">https://www.sli.do</a> and paste the event code `HPC1` (Stream
+1) or `HPC2` (Stream 2).
 
 <div class="toc" markdown="1">
 ## Contents:
