@@ -11,6 +11,10 @@ details now, please check individual session pages in the [program]({{ site.base
 
 - Bash Scripting and Tools: <a href="https://github.com/razoumov/publish/blob/master/bash.md" target="_blank">lesson notes</a>
 
+### High-performance computing and programming
+
+- MATLAB Parallel Computing: [ZIP file]({{ site.baseurl }}/materials/MATLAB-Parallel-Computing-Workshop.zip) with slides and exercises
+
 ### Machine learning
 
 - Practical Applications of Deep Learning with MATLAB:
