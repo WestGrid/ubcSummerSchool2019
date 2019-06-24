@@ -29,7 +29,6 @@ reservations, please use (and pass to your audience) the following Slurm flags:
 ```
 --account=ubcss19-wa_cpu --reservation=ubcss19-wr_cpu     # on Graham
 --account=ubcss19b-wa_cpu --reservation=ubcss19b-wr_cpu   # on Cedar
-
 ```
 
 Please note that these reservations will start on Monday (June-24) morning, one hour early for
