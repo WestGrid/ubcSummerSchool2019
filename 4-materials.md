@@ -17,10 +17,11 @@ details now, please check individual session pages in the [program]({{ site.base
 
 ### Python topics
 
-- Jupyter Notebooks: you can either use the interactive notebook at http://bit.ly/2xcBTVU (sign-in with
-  your GitHub acccount); or start one of the Jupyter Notebooks at the top-level portal https://syzygy.ca
-  (select your institution to log in) and then upload and use [this notebook]({{ site.baseurl
-  }}/materials/WestGridRSSNotes-master.zip) there
+- Jupyter Notebooks: you can either use the interactive notebook at <a href="http://bit.ly/2xcBTVU"
+  target="_blank">http://bit.ly/2xcBTVU</a> (sign-in with your GitHub acccount); or start one of the
+  Jupyter Notebooks at the top-level portal <a href="https://syzygy.ca"
+  target="_blank">https://syzygy.ca</a> (select your institution to log in) and then upload and use
+  [this notebook]({{ site.baseurl }}/materials/WestGridRSSNotes-master.zip) there
 
 ### Machine learning
 
