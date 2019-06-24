@@ -15,6 +15,13 @@ details now, please check individual session pages in the [program]({{ site.base
 
 - MATLAB Parallel Computing: [ZIP file]({{ site.baseurl }}/materials/MATLAB-Parallel-Computing-Workshop.zip) with slides and exercises
 
+### Python topics
+
+- Jupyter Notebooks: you can either use the interactive notebook at http://bit.ly/2xcBTVU (sign-in with
+  your GitHub acccount); or start one of the Jupyter Notebooks at the top-level portal https://syzygy.ca
+  (select your institution to log in) and then upload and use [this notebook]({{ site.baseurl
+  }}/materials/WestGridRSSNotes-master.zip) there
+
 ### Machine learning
 
 - Practical Applications of Deep Learning with MATLAB:
