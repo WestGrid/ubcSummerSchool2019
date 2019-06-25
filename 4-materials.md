@@ -23,6 +23,10 @@ details now, please check individual session pages in the [program]({{ site.base
   target="_blank">https://syzygy.ca</a> (select your institution to log in) and then upload and use
   [this notebook]({{ site.baseurl }}/materials/WestGridRSSNotes-master.zip) there
 
+### Databases
+
+- Introduction to Databases on Cedar: [PDF slides]({{ site.baseurl }}/materials/databases20190625.pdf)
+
 ### Machine learning
 
 - Practical Applications of Deep Learning with MATLAB:
