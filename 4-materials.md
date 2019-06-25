@@ -13,6 +13,7 @@ details now, please check individual session pages in the [program]({{ site.base
 
 ### High-performance computing and programming
 
+- Introduction to high-performance computing (HPC): [ZIP file](https://owncloud.westgrid.ca/index.php/s/VCD8Pogqmk7eS16/download) with the slides and codes
 - MATLAB Parallel Computing: [ZIP file]({{ site.baseurl }}/materials/MATLAB-Parallel-Computing-Workshop.zip) with slides and exercises
 
 ### Python topics
