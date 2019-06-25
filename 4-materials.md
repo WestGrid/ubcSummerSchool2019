@@ -24,9 +24,11 @@ details now, please check individual session pages in the [program]({{ site.base
   target="_blank">https://syzygy.ca</a> (select your institution to log in) and then upload and use
   [this notebook]({{ site.baseurl }}/materials/WestGridRSSNotes-master.zip) there
 
-### Databases
+### Databases, visualization
 
 - Introduction to Databases on Cedar: [PDF slides]({{ site.baseurl }}/materials/databases20190625.pdf)
+- Scientific Visualization: [ZIP file](https://owncloud.westgrid.ca/index.php/s/yG9xbsYLbLymvdZ/download)
+  with slides, scripts, and sample datasets
 
 ### Machine learning
 
