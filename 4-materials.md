@@ -37,3 +37,7 @@ details now, please check individual session pages in the [program]({{ site.base
   [ZIP file](https://owncloud.westgrid.ca/index.php/s/JUrvwg6bABk1Fyu/download) with slides and other
   files. Some of the larger files were excluded to keep the file size small. If you want these large
   datasets, please contact the instructor rteramot at mathworks dot com.
+
+### Security, privacy
+
+- Best practices in data security: [PDF slides]({{ site.baseurl }}/materials/security20190625.pdf)
