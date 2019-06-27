@@ -15,6 +15,7 @@ details now, please check individual session pages in the [program]({{ site.base
 
 - Introduction to high-performance computing (HPC): [ZIP file](https://owncloud.westgrid.ca/index.php/s/VCD8Pogqmk7eS16/download) with the slides and codes
 - MATLAB Parallel Computing: [ZIP file]({{ site.baseurl }}/materials/MATLAB-Parallel-Computing-Workshop.zip) with slides and exercises
+- Chapel parallel programming: [PDF slides](https://github.com/razoumov/publish/raw/master/chapel.pdf), notes for <a href="https://github.com/razoumov/publish/blob/master/01-base.md" target="_blank">base language</a>, notes for <a href="https://github.com/razoumov/publish/blob/master/02-task-parallelism.md" target="_blank">task parallelism</a>, and notes for <a href="https://github.com/razoumov/publish/blob/master/03-domain-parallelism.md" target="_blank">data parallelism</a>
 
 ### Python topics
 
