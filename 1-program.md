@@ -39,28 +39,3 @@ href="https://www.sli.do" target="_blank">https://www.sli.do</a> and paste the e
 {:.mbtablestyle}
 
 &nbsp;
-
-
-
-
-
-
-<!-- streaming: -->
-<!-- - Garth will decide in the next few days whether he is going to broadcast one or two sessions, and on the -->
-<!--   streaming platform (choice between Vidyo and another one). By Friday we should also know the exact -->
-<!--   rooms we’ll be teaching in (either Nest or Pharmaceutical Sciences). That will determine whether we can -->
-<!--   bump up the registration cap or not. -->
-<!-- - someone will be monitoring the chat / etherpad for questions -->
-<!-- - UBCO (Wade) will to try a dedicated room for showing three sessions (cloud, my HPC or bash, one more) -->
-
-
-
-<!-- Thursday 4pm 'HPC career panel' details; Charlotte Fisher will be one of the presenters -->
-<!-- - wifi access for UBC visitors: Garth will check and get back to me -->
-<!-- - already have 120 CCDB guest accounts; requested 10 base CPU-only nodes on Cedar/Graham -->
-<!-- - course helpers: Kamil is looking into this, we already have volunteers -->
-<!-- - potential *Elastic cloud and DELL/EMC object storage platform* by Dell (1/2-day hands-on): not this year -->
-<!-- - potential *CUDA* by Nvidia: not this year -->
-<!-- - Bill Tubbs (UBC) would like to teach pandas + scipy for big data processing: not this year -->
-<!-- - *Web scraping with Python APIs* by Eugene or Skyler (?): cancelled -->
-<!-- - potential ECOSCOPE session *Microbiome data manipulation and visualization in R* by Kim Dill-McFarland -->

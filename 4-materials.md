@@ -42,3 +42,4 @@ details now, please check individual session pages in the [program]({{ site.base
 ### Security, privacy
 
 - Best practices in data security: [PDF slides]({{ site.baseurl }}/materials/security20190625.pdf)
+- Data privacy and REDCap platform: [PDF slides]({{ site.baseurl }}/materials/redcap20190625.pdf)
