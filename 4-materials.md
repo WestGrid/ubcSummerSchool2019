@@ -7,6 +7,9 @@ nav: true
 We will be adding course materials to this page during and after the summer school. For more course
 details now, please check individual session pages in the [program]({{ site.baseurl }}/1-program.html).
 
+**Update**: You can <a href="https://mediasite.audiovisual.ubc.ca/Mediasite/Channel/ubc-arc-2019"
+target="_blank">watch video recordings</a> of some of the courses.
+
 ### Introduction to the Linux command line
 
 - Bash Scripting and Tools: <a href="https://github.com/razoumov/publish/blob/master/bash.md" target="_blank">lesson notes</a>
