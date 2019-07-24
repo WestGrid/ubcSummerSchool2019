@@ -32,6 +32,12 @@ details now, please check individual session pages in the [program]({{ site.base
 - Scientific Visualization: [ZIP file](https://owncloud.westgrid.ca/index.php/s/yG9xbsYLbLymvdZ/download)
   with slides, scripts, and sample datasets
 
+### Bioinformatics
+
+- Building a bioinformatics pipeline with SnakeMake: <a
+  href="https://github.com/bmcconeghy/bioinformatics_pipeline_with_snakemake_2019-06-27"
+  target="_blank">lesson notes</a>
+
 ### Machine learning
 
 - Practical Applications of Deep Learning with MATLAB:
